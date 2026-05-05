@@ -17,7 +17,7 @@ The system uses a layered approach to ensure data integrity and confidentiality:
 
 ## 📸 Dashboard Preview
 
-![Project Dashboard](Screenshot%202026-02-23%20121745.png)
+![Project Dashboard](dashboard.png)
 
 ## 🚀 Features
 
