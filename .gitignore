@@ -1,0 +1,14 @@
+# MATLAB generated files
+*.asv
+*.m~
+*.mex*
+*.mat
+*.slx
+*.p
+*.p~
+*.fig
+*.log
+
+# Operating system files
+.DS_Store
+Thumbs.db
